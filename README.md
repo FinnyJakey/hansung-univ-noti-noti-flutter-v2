@@ -11,6 +11,7 @@ Run the following commands from your terminal:
 
 ## Download 한성대 노티노티 at:
 `[App store]`: https://apps.apple.com/app/id6444118912
+
 `[Play store]`: https://play.google.com/store/apps/details?id=com.finnyjakey.hansungunivnotinoti
 
 ## Screenshots
