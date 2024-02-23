@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304599420586",
+    "firebase_url": "https://hansung-univ-noti-noti-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hansung-univ-noti-noti",
+    "storage_bucket": "hansung-univ-noti-noti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304599420586:android:2fed4e2fdd160907228ad3",
+        "android_client_info": {
+          "package_name": "com.finnyjakey.hansungunivnotinoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304599420586-foatvd1dqbnck6at5qh5vbbtietdaout.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz1lmaw6Zv_f61HA7TYz83yMOP4-Ic0P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304599420586-foatvd1dqbnck6at5qh5vbbtietdaout.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "304599420586-o2rf2rq0jbcucrptjdan8dkv33deoj8f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.finnyjakey.hansungunivnotinoti"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
